@@ -2,42 +2,44 @@ import { defineSidebarConfig } from "vuepress-theme-hope";
 
 export default defineSidebarConfig([
   {
-    text: "如何使用",
+    text: "总论",
     icon: "creative",
-    prefix: "guide/",
-    link: "guide/",
-    children: "structure",
+    link: "/manual",
   },
   {
-    text: "文章",
+    text: "Dice!",
     icon: "note",
-    prefix: "posts/",
+    prefix: "manual/dice!/",
+    collapsable: true,
     children: [
       {
-        text: "文章 1-4",
+        text: "好感组件",
         icon: "note",
         collapsable: true,
-        prefix: "article/",
-        children: ["article1", "article2", "article3", "article4"],
+        prefix: "favorsystem/",
+        children: ["introduction","interaction"]
       },
-      {
-        text: "文章 5-12",
-        icon: "note",
-        children: [
-          {
-            text: "文章 5-8",
-            icon: "note",
-            collapsable: true,
-            prefix: "article/",
-            children: ["article5", "article6", "article7", "article8"],
-          },
-          {
-            text: "文章 9-12",
-            icon: "note",
-            children: ["article9", "article10", "article11", "article12"],
-          },
-        ],
-      },
-    ],
+    ]
   },
+  {
+    text: "Mirai",
+    icon: "note",
+    prefix: "manual/mirai/",
+    collapsable: true,
+    children: [],
+  },
+  {
+    text: "NoneBot2",
+    icon: "note",
+    prefix: "manual/nonebot2/",
+    collapsable: true,
+    children: [],
+  },
+  {
+    text: "附录",
+    icon: "note",
+    prefix: "appendix",
+    collapsable: true,
+    children: [],
+  }
 ]);

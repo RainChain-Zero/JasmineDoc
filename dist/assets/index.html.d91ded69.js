@@ -1,0 +1,1 @@
+import{_ as e,o as t,b as a,d as o,e as s}from"./app.015acadd.js";const c={},r={id:"\u6211\u4EEC\u7684\u7EA6\u5B9A",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#\u6211\u4EEC\u7684\u7EA6\u5B9A","aria-hidden":"true"},"#",-1),n=s(" \u6211\u4EEC\u7684\u7EA6\u5B9A"),d=[_,n];function i(h,f){return t(),a("h1",r,d)}var x=e(c,[["render",i]]);export{x as default};

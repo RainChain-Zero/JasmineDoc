@@ -30,6 +30,6 @@ export default defineHopeConfig({
       description: "茉莉酱の集成养成方案",
     },
   },
-
+  
   themeConfig,
 });

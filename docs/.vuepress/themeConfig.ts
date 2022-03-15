@@ -45,5 +45,20 @@ export default defineThemeConfig({
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
     },
+    search:
+      {
+        locales: {
+          '/': {
+            placeholder: '来！搜！',
+          },
+          '/zh/': {
+            placeholder: '来！搜！',
+          },
+        },
+        isSearchable: (page) => page.path == '/',
+        maxSuggestions:5,
+        getExtraFields:() => [],
+        hotKeys:[]
+      },
   },
 });
