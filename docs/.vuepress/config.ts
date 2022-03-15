@@ -1,6 +1,8 @@
 import { defineHopeConfig } from "vuepress-theme-hope";
 import themeConfig from "./themeConfig";
 
+import { seo } from "vuepress-plugin-seo2";
+
 export default defineHopeConfig({
   base: "/JasmineDoc/",
 
@@ -30,6 +32,12 @@ export default defineHopeConfig({
       description: "茉莉酱の集成养成方案",
     },
   },
-  
+  plugins: [
+    seo({
+      hostname:"https://rainchain-zero.github.io",
+      author:"RainChain-Zero"
+    }),
+  ],
+
   themeConfig,
 });

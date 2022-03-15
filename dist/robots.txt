@@ -1,5 +1,3 @@
 
 User-agent:*
 Disallow:
-
-Sitemap: https://rainchain-zero.github.io/JasmineDoc/sitemap.xml
