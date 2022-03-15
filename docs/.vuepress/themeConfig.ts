@@ -18,6 +18,10 @@ export default defineThemeConfig({
 
   repo: "https://github.com/RainChain-Zero/JasmineDoc",
 
+  docsBranch:"master",
+
+  docsDir:"docs/",
+
   // navbar
   navbar: navbar,
 
