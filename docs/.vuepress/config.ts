@@ -18,7 +18,7 @@ export default defineHopeConfig({
       "link",
       {
         rel: 'icon', 
-        href: '/images/favicon.ico' 
+        href: './images/favicon.ico' 
       }
     ]
   ],
