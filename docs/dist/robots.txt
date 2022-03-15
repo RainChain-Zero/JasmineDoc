@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://RainChain-Zero.github.io/JasmineDoc/sitemap.xml

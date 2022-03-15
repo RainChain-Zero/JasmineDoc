@@ -1,1 +1,0 @@
-import{_ as e,o,a,b as s,d as t}from"./app.fe1c599e.js";const c={},n={id:"jasmine-cookbook",tabindex:"-1"},r=s("a",{class:"header-anchor",href:"#jasmine-cookbook","aria-hidden":"true"},"#",-1),_=t(" Jasmine CookBook"),d=[r,_];function i(h,k){return o(),a("h1",n,d)}var f=e(c,[["render",i]]);export{f as default};

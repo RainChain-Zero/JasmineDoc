@@ -3,7 +3,7 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default defineThemeConfig({
-  hostname: "https://RainChain-Zero.github.io",
+  hostname: "https://rainchain-zero.github.io",
 
   author: {
     name: "RainChain-Zero",
