@@ -19,6 +19,13 @@ export default defineSidebarConfig([
         prefix: "favorsystem/",
         children: ["introduction","interaction","sidestory","itemsystem","tradesystem"]
       },
+      {
+        text:"其他",
+        icon:"note",
+        collapsable: true,
+        prefix:"other/",
+        children:["ark","picture"]
+      }
     ]
   },
   {
@@ -26,20 +33,19 @@ export default defineSidebarConfig([
     icon: "note",
     prefix: "manual/mirai/",
     collapsable: true,
-    children: [],
+    children: ["weather","calculator"],
   },
   {
     text: "NoneBot2",
     icon: "note",
     prefix: "manual/nonebot2/",
     collapsable: true,
-    children: [],
+    children: ["nbnhhsh","drawcard","bilibili"],
   },
   {
     text: "附录",
     icon: "note",
-    prefix: "appendix",
     collapsable: true,
-    children: [],
+    children: ["appendix/item","diary/","promise/","developer/"],
   }
 ]);

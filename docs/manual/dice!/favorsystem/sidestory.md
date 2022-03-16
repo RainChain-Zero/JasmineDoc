@@ -1,6 +1,7 @@
 ---
 category:
   - 使用指南
+  - Dice!
 tag:
   - 好感组件
   - 剧情

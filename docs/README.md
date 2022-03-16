@@ -21,9 +21,12 @@ tag:
 :::
 
 :::warning 我来对地方了吗？
-如果你是为了跑团/TRPG相关指令而来的，请转移到[Dice!用户手册](https://v2docs.kokona.tech/zh/latest/User_Manual.html)
+如果你是为了跑团/TRPG相关指令(除方舟trpg)而来的，请转移到[Dice!用户手册](https://v2docs.kokona.tech/zh/latest/User_Manual.html)
 
 如果你是因为~~馋茉莉身子~~而来的，恭喜您！这里将是你的不二之选！
 :::
-咳咳，说了这么多，还是允许我介绍一下今天的主角吧~:tada:
+
+**本文档不介绍已安装的Dice!拓展牌堆，有需要输入"help 扩展牌堆"即可查看所有安装牌堆，指令为.draw [牌堆]**
+
+那么，现在，就让我们开始吧~ [调教手册](./manual/):tada:
 
