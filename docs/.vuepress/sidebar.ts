@@ -17,7 +17,7 @@ export default defineSidebarConfig([
         icon: "note",
         collapsable: true,
         prefix: "favorsystem/",
-        children: ["introduction","interaction"]
+        children: ["introduction","interaction","sidestory","itemsystem","tradesystem"]
       },
     ]
   },

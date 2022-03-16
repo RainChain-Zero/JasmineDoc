@@ -5,15 +5,10 @@
     --c-brand-light: #48a2df;
 }
 
-#test{
+#test,#favor_introduction_01,#favor_interaction_01{
     color: rgb(10, 10, 10);
     background-color: rgb(10, 10, 10);
     font-size: 10px;
-}
-
-#test:hover{
-    color: white;
-    transition: 0.2s;
 }
 
 #develoer_01{
@@ -22,7 +17,7 @@
     font-size: 13px;
 }
 
-#develoer_01:hover{
+#test:hover,#develoer_01:hover,#favor_introduction_01:hover,#favor_interaction_01:hover{
     color: white;
     transition: 0.2s;
 }
