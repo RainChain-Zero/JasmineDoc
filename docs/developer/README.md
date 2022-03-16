@@ -27,6 +27,8 @@ icon: 'operate'
 
 或者，我们也十分欢迎你加入群 **『迪司博德』(921454429)** 来和我们即时交流获得最新信息。
 
+你可以点击该链接直接跳转——[迪司博德](https://qm.qq.com/cgi-bin/qm/qr?k=zT3VD0Xm5pD0_lY1y29C4ezorhp7baRn&jump_from=webapi")
+
 > 如果茉莉出于正常运行状态时，你还可以对茉莉发送".send [消息内容]"，我们也可以收到你的消息哦。
 
 ::: info 注意哦

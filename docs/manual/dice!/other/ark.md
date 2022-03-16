@@ -6,11 +6,17 @@ tag:
   - TRPG
 ---
 
-# 明日方舟TRPG指令
+# 明日方舟泰拉TRPG指令
 
 > "诶诶诶，你们在玩些什么啊，我也要玩！"她一脸兴奋地挤了进来。
 
-茉莉对明日方舟TRPG提供了支持，以下为相关指令
+茉莉对明日方舟泰拉TRPG提供了支持，以下为相关指令
+
+:::info 你知道吗
+这里的明日方舟泰拉TRPG规则主笔是——[忘忧小径](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2565215416&website=www.oicqzone.com)(2565215416)
+
+你可以在这里找到他们的交流群——[明日方舟trpg](https://jq.qq.com/?_wv=1027&k=qwEzG8Yd)(1007561501)
+:::
 
 ### ".rk（难度）[条目]（即时检定数值）（+|-）（修订数值）"
 
