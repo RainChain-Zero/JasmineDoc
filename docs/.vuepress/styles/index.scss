@@ -6,7 +6,8 @@
 
 #test,
 #favor_introduction_01,
-#favor_interaction_01 {
+#favor_interaction_01,
+#nsfw_01 {
   color: rgb(10, 10, 10);
   background-color: rgb(10, 10, 10);
   font-size: 10px;
@@ -19,11 +20,20 @@
   font-size: 13px;
 }
 
+#nsfw_02 {
+  text-decoration: line-through;
+  color: rgb(10, 10, 10);
+  background-color: rgb(10, 10, 10);
+  font-size: 13px;
+}
+
 #test:hover,
 #develoer_01:hover,
 #favor_introduction_01:hover,
 #favor_interaction_01:hover,
-#nonebot2_nbnhhsh_01:hover {
+#nonebot2_nbnhhsh_01:hover,
+#nsfw_01:hover,
+#nsfw_02:hover {
   color: white;
   transition: 0.2s;
 }
