@@ -24,7 +24,7 @@ export default defineSidebarConfig([
         icon:"note",
         collapsable: true,
         prefix:"other/",
-        children:["ark","picture"]
+        children:["ark","searchmodule","picture"]
       }
     ]
   },
