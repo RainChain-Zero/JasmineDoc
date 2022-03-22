@@ -44,4 +44,4 @@ icon: 'info'
 
 <span class="promise">”</span>
 
-> 本协议一部分和Dice!使用协议是共通的。你可以对任意Dice!下骰娘发送.help 协议即可获取Dice!默认协议。
+> 本协议一部分和Dice!使用协议是共通的并且**未涉及部分同样适用**。你可以对任意Dice!下骰娘发送.help 协议即可获取Dice!默认协议。
