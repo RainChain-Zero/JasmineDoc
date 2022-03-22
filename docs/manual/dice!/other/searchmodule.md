@@ -1,12 +1,14 @@
 ---
 category:
   - 使用指南
-  - Dice!
+  - Mirai
 tag:
   - TRPG
 ---
 
 # 模组搜索
+
+> "今天想玩点什么？"
 
 实际上，这个功能是用Kotlin编写的，也就是Mirai插件，但还是按照功能性归在了Dice!类下。
 
