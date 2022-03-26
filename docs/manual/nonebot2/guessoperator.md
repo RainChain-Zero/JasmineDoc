@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2022-03-22 11:45:42
+ * @LastEditTime: 2022-03-26 20:43:20
+ * @LastEditors: your name
+ * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @FilePath: \JasmineDoc\docs\manual\nonebot2\guessoperator.md
+-->
 ---
 category:
   - 使用指南
@@ -61,3 +69,9 @@ tag:
 因为**茉莉一直保持扮演是很累的**，所以请及时关闭进程。
 
 当然，茉莉不傻，如果你坏心眼不让她去休息，她自己也会睡大觉的。
+
+### "/查干员 [干员名]"
+
+抓耳挠腮的你被迫向茉莉~~摇尾乞怜~~，希望她能多给你一点提示。
+
+> 例:"/查干员 艾雅法拉":查看干员星级、阵营、种族、画师。
