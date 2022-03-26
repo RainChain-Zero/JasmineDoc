@@ -1,11 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2022-03-22 11:45:42
- * @LastEditTime: 2022-03-26 20:43:20
- * @LastEditors: your name
- * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- * @FilePath: \JasmineDoc\docs\manual\nonebot2\guessoperator.md
--->
 ---
 category:
   - 使用指南
