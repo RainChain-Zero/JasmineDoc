@@ -3,6 +3,8 @@ category:
   - 附录
 tag:
   - 好感组件
+
+icon: "tool"
 ---
 
 # 好感机制
