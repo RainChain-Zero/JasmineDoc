@@ -46,6 +46,6 @@ export default defineSidebarConfig([
     text: "附录",
     icon: "note",
     collapsable: true,
-    children: ["appendix/item","diary/","promise/","developer/","appendix/nsfw"],
+    children: ["appendix/item","diary/","promise/","developer/","appendix/nsfw","appendix/favormechanism"],
   }
 ]);
