@@ -75,18 +75,6 @@ PART 1的指令暂时**只能在群聊中**使用，且个人**好感度≥500**
 
 ![card](../../makepic/card.png)
 
-### /[emoji][emoji]
-
-发送任意**两个emoji表情**，将会返回两个表情的合成图。
-
-注意，必须是emoji表情哦！
-
-![emoji](../../makepic/emoji.png)
-
-~~不行了，容我笑会×~~
-
-> 修订：现在两个emoji前需要**加/作为前缀**。
-
 ## PART 2
 
 :::warning 使用限制
