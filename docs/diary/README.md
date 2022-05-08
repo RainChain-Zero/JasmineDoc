@@ -11,6 +11,11 @@ icon: 'script'
 
 *茉莉日后的更新都将在这里记载，让我们一同见证茉莉的成长——*
 
+## V4.7.5
+2022.05.08
+
+增加了[塔罗牌](../manual/nonebot2/tarot.md)和[Shindanmaker占卜](../manual/nonebot2/shindanmaker.md)功能
+
 ## V4.7.4
 2022.04.23
 
