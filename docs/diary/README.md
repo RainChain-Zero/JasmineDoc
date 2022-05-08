@@ -14,7 +14,9 @@ icon: 'script'
 ## V4.7.5
 2022.05.08
 
-增加了[塔罗牌](../manual/nonebot2/tarot.md)和[Shindanmaker占卜](../manual/nonebot2/shindanmaker.md)功能
+①.增加了[塔罗牌](../manual/nonebot2/tarot.md)和[Shindanmaker占卜](../manual/nonebot2/shindanmaker.md)功能
+
+②.修复了好感破千时使用特定道具后亲和度不清零的异常现象。
 
 ## V4.7.4
 2022.04.23
