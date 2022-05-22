@@ -28,7 +28,7 @@ tag:
 
 只要你不在茉莉的黑名单（包括云黑）上，都会自动同意的，茉莉很愿意和大家做朋友。
 
-或者，**一键添加好友**吧--->[茉莉酱~](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3349795206&website=www.oicqzone.com)
+或者，**一键添加好友**吧--->[茉莉酱~](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3349795206&website=www.oicqzone.com)，是手机端吗？那就点[这里](mqqwpa://im/chat?chat_type=wpa&uin=3349795206&version=1&src_type=web&web_src=oicqzone.com)
 
 想拉茉莉进群？当然可以，直接拉！**非黑即入**，如果群聊人数过多，可能需要群管理的同意哦。
 
