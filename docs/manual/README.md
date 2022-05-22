@@ -30,6 +30,10 @@ tag:
 
 或者，**一键添加好友**吧--->[茉莉酱~](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3349795206&website=www.oicqzone.com)，是手机端吗？那就点[这里](mqqwpa://im/chat?chat_type=wpa&uin=3349795206&version=1&src_type=web&web_src=oicqzone.com)
 
+:::info
+因为种种原因，茉莉关闭了临时会话，所以小窗需要加好友哦~
+:::
+
 想拉茉莉进群？当然可以，直接拉！**非黑即入**，如果群聊人数过多，可能需要群管理的同意哦。
 
 对了，你得遵守[我们的约定](../promise/)哦？~违反是打咩的哟？
