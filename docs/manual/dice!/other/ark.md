@@ -15,6 +15,8 @@ tag:
 :::info 你知道吗
 这里的明日方舟泰拉TRPG规则主笔是——[忘忧小径](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2565215416&website=www.oicqzone.com)(2565215416)
 
+手机端请点击[这里](mqqwpa://im/chat?chat_type=wpa&uin=2565215416&version=1&src_type=web&web_src=oicqzone.com)
+
 你可以在这里找到他们的交流群——[明日方舟trpg](https://jq.qq.com/?_wv=1027&k=qwEzG8Yd)(1007561501)
 :::
 
