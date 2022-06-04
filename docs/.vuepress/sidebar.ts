@@ -40,7 +40,7 @@ export default defineSidebarConfig([
     icon: "note",
     prefix: "manual/nonebot2/",
     collapsable: true,
-    children: ["nbnhhsh","drawcard","guessoperator","bilibili","setu","tarot","shindanmaker","petpet"],
+    children: ["nbnhhsh","drawcard","guessoperator","bilibili","setu","tarot","shindanmaker","petpet","ygo"],
   },
   {
     text: "附录",
