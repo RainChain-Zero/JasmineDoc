@@ -50,7 +50,7 @@ tag:
 
 注意，以下指令**均需要指令前缀**“/”，不再赘述。
 
-![使用说明](https://s2.loli.net/2022/05/31/m51RO3DuGN6Exoq.jpg)
+![使用说明](https://s2.loli.net/2022/06/09/lCOujwopgJPxD97.jpg)
 
 ## 逐一演示效果
 
