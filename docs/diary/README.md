@@ -14,7 +14,12 @@ icon: 'script'
 ## V4.7.9
 2022.07.05
 
-增加[彩云小梦续写](../manual/nonebot2/caiyun.md),一起来写有趣的故事吧！
+①.增加[彩云小梦续写](../manual/nonebot2/caiyun.md),一起来写有趣的故事吧！
+
+②.[奇怪的图片增加了](../manual/mirai/makepic.md)PART 1增加幻影图合成
+
+③.修复了回归buff期间喂食导致破千亲和不清零的bug
+
 ## V4.7.8
 2022.06.28
 
