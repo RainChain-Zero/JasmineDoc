@@ -33,7 +33,7 @@ export default defineSidebarConfig([
     icon: "note",
     prefix: "manual/mirai/",
     collapsable: true,
-    children: ["weather","calculator","music","makepic"],
+    children: ["weather","calculator","music","makepic","bottle"],
   },
   {
     text: "NoneBot2",
