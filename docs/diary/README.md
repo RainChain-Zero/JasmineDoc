@@ -18,6 +18,8 @@ icon: 'script'
 ①.增加[漂流瓶](../manual/mirai/bottle.md)功能
 
 ②.更新剧情模式第三章「此般景致」
+
+③.更新游戏[扫雷](../manual/nonebot2/minesweeper.md)
 ## V4.7.9
 2022.07.05
 
