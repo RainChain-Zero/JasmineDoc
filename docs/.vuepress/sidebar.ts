@@ -20,11 +20,18 @@ export default defineSidebarConfig([
         children: ["introduction","interaction","sidestory","itemsystem","tradesystem","worksystem"]
       },
       {
+        text:"明日方舟泰拉TRPG",
+        icon:"note",
+        collapsable: true,
+        prefix:"ark/",
+        children:["ark","rk","ac"]
+      },
+      {
         text:"其他",
         icon:"note",
         collapsable: true,
         prefix:"other/",
-        children:["ark","searchmodule","picture"]
+        children:["searchmodule","picture"]
       }
     ]
   },
