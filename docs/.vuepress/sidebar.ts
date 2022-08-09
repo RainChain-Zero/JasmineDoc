@@ -17,21 +17,21 @@ export default defineSidebarConfig([
         icon: "note",
         collapsable: true,
         prefix: "favorsystem/",
-        children: ["introduction","interaction","sidestory","itemsystem","tradesystem","worksystem"]
+        children: ["introduction", "interaction", "sidestory", "itemsystem", "tradesystem", "worksystem"]
       },
       {
-        text:"明日方舟泰拉TRPG",
-        icon:"note",
+        text: "明日方舟泰拉TRPG",
+        icon: "note",
         collapsable: true,
-        prefix:"ark/",
-        children:["ark","rk","ac"]
+        prefix: "ark/",
+        children: ["ark", "rk", "ac"]
       },
       {
-        text:"其他",
-        icon:"note",
+        text: "其他",
+        icon: "note",
         collapsable: true,
-        prefix:"other/",
-        children:["searchmodule","picture"]
+        prefix: "other/",
+        children: ["searchmodule", "picture"]
       }
     ]
   },
@@ -40,19 +40,26 @@ export default defineSidebarConfig([
     icon: "note",
     prefix: "manual/mirai/",
     collapsable: true,
-    children: ["weather","calculator","music","makepic","bottle"],
+    children: ["weather", "calculator", "music", "makepic", "bottle"],
   },
   {
     text: "NoneBot2",
     icon: "note",
     prefix: "manual/nonebot2/",
     collapsable: true,
-    children: ["nbnhhsh","drawcard","guessoperator","bilibili","setu","tarot","shindanmaker","petpet","ygo","picsearcher","caiyun","minesweeper"],
+    children: ["nbnhhsh", "drawcard", "guessoperator", "bilibili", "setu", "tarot", "shindanmaker", "petpet", "ygo", "picsearcher", "caiyun", "minesweeper"],
+  },
+  {
+    text: "Koishi",
+    icon: "note",
+    prefix: "manual/koishi/",
+    collapsable: true,
+    children: ["api"],
   },
   {
     text: "附录",
     icon: "note",
     collapsable: true,
-    children: ["appendix/item","diary/","promise/","developer/","appendix/nsfw","appendix/favormechanism"],
+    children: ["appendix/item", "diary/", "promise/", "developer/", "appendix/nsfw", "appendix/favormechanism"],
   }
 ]);
