@@ -1,7 +1,7 @@
 ---
 category:
   - 使用指南
-  - Dice!
+  - Koishi
 tag:
   - 文字
 ---
