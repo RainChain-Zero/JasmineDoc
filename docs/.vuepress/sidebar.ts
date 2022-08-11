@@ -40,7 +40,7 @@ export default defineSidebarConfig([
     icon: "note",
     prefix: "manual/mirai/",
     collapsable: true,
-    children: ["weather", "calculator", "music", "makepic", "bottle"],
+    children: ["weather", "calculator", "music", "makepic", "bottle", "steam"],
   },
   {
     text: "NoneBot2",
@@ -54,7 +54,7 @@ export default defineSidebarConfig([
     icon: "note",
     prefix: "manual/koishi/",
     collapsable: true,
-    children: ["api"],
+    children: ["api", "chess"],
   },
   {
     text: "附录",

@@ -6,31 +6,31 @@ tag:
   - 科学扩展
 ---
 
-# wolfram-alpha高性能(？计算器
+# wolfram-alpha 高性能(？计算器
 
-> *"茉、茉莉！快...快帮我算算这道题！"*
+> _"茉、茉莉！快...快帮我算算这道题！"_
 >
-> *"好 好，这就来，这就来"*
+> _"好 好，这就来，这就来"_
 
 我们认为，茉莉作为高性能(?机器人，必须拥有渊博的知识和优秀的计算性能。
 
 :::warning
-这可能需要你有一些wolfram或mathmatic的知识( 不过这些都是可以查到的！
+这可能需要你有一些 wolfram 或 mathmatic 的知识( 不过这些都是可以查到的！
 
-而且wolfram-alpha本身对自然语言(英文)支持很不错。
+而且 wolfram-alpha 本身对自然语言(英文)支持很不错。
 
 网页版——[wolfram-alpha](https://www.wolframalpha.com/)
 :::
 
-### "/c [表达式]"
+### "/cpu [表达式]"
 
-*让茉莉进入高性能演算模式*
+_让茉莉进入高性能演算模式_
 
 举几个例子吧——
 
-"/c Integrate[1/(1＋x^7),{x}] ":计算不定积分
+"/c Integrate[1/(1 ＋ x^7),{x}] ":计算不定积分
 
-"/c factor f(x)":对f(x)分解因式
+"/c factor f(x)":对 f(x)分解因式
 
 "/c maximize (2ab+3bc)/(a^2+b^2+c^2) when a>0, b>0, c>0":在指定条件下计算最大值
 

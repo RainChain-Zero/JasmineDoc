@@ -11,9 +11,17 @@ icon: "script"
 
 _茉莉日后的更新都将在这里记载，让我们一同见证茉莉的成长——_
 
+## V4.8.1
+
+2022.08.11
+
+①.增加[steam&epic 助手](../manual/mirai/steam.md)
+
+②.增加[棋类游戏](../manual/koishi/chess.md)
+
 ## V4.8.0
 
-我们即将进行 4.8.0 版本的大更新，更新内容将陆续放出。
+2022.08.05
 
 ①.增加[漂流瓶](../manual/mirai/bottle.md)功能
 
