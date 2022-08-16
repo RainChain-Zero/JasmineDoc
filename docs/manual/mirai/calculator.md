@@ -22,19 +22,19 @@ tag:
 网页版——[wolfram-alpha](https://www.wolframalpha.com/)
 :::
 
-### "/cpu [表达式]"
+### "/c [表达式]"
 
 _让茉莉进入高性能演算模式_
 
 举几个例子吧——
 
-"/cpu Integrate[1/(1 ＋ x^7),{x}] ":计算不定积分
+"/c Integrate[1/(1 ＋ x^7),{x}] ":计算不定积分
 
-"/cpu factor f(x)":对 f(x)分解因式
+"/c factor f(x)":对 f(x)分解因式
 
-"/cpu maximize (2ab+3bc)/(a^2+b^2+c^2) when a>0, b>0, c>0":在指定条件下计算最大值
+"/c maximize (2ab+3bc)/(a^2+b^2+c^2) when a>0, b>0, c>0":在指定条件下计算最大值
 
-"/cpu H2O":查看水的相关理化性质
+"/c H2O":查看水的相关理化性质
 
 > 实际上，除了数学，只要是科学领域的内容，均能找到相关解答，是个科学引擎，但最擅长的依然是能计算出结果的东西
 
