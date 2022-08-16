@@ -19,6 +19,8 @@ _茉莉日后的更新都将在这里记载，让我们一同见证茉莉的成�
 
 ②.增加[棋类游戏](../manual/koishi/chess.md)
 
+③.增加[抽象话](../manual/nonebot2/oddtext.md)
+
 ## V4.8.0
 
 2022.08.05
