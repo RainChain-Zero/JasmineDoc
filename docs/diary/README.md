@@ -17,6 +17,8 @@ _茉莉日后的更新都将在这里记载，让我们一同见证茉莉的成�
 
 ①.增加[AI 绘图](../manual/nonebot2/drawimage.md)
 
+②.增加[NK词语游戏](../manual/mirai/nkgame.md)
+
 ## V4.8.2
 
 2022.09.02

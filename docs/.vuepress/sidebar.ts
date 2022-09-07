@@ -40,7 +40,7 @@ export default defineSidebarConfig([
     icon: "note",
     prefix: "manual/mirai/",
     collapsable: true,
-    children: ["weather", "calculator", "music", "makepic", "bottle", "steam"],
+    children: ["weather", "calculator", "music", "makepic", "bottle", "steam", "nkgame"],
   },
   {
     text: "NoneBot2",
