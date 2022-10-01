@@ -11,13 +11,22 @@ icon: "script"
 
 _茉莉日后的更新都将在这里记载，让我们一同见证茉莉的成长——_
 
+## V4.8.5
+
+2022.10.01
+①.现在对茉莉的交互增加了个人冷却和全局冷却
+
+②.将 NontBot 内容重构为 gocq 版本
+
+③.对部分插件进行了更新与修复
+
 ## V4.8.3
 
 2022.09.05
 
 ①.增加[AI 绘图](../manual/nonebot2/drawimage.md)
 
-②.增加[NK词语游戏](../manual/mirai/nkgame.md)
+②.增加[NK 词语游戏](../manual/mirai/nkgame.md)
 
 ## V4.8.2
 

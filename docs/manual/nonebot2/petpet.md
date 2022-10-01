@@ -8,9 +8,9 @@ tag:
 
 # 头像表情包
 
-> *自从上次发现绘画的乐趣后，她似乎不再满足于简单的恶作剧，当你看见她手中的小摄像机时，最好保护好自己。*
+> _自从上次发现绘画的乐趣后，她似乎不再满足于简单的恶作剧，当你看见她手中的小摄像机时，最好保护好自己。_
 >
-> *"诶——！别跑啊——！就、就一下啦！"你可不敢回头看正挥舞着小相机在后穷追不舍的她。*
+> _"诶——！别跑啊——！就、就一下啦！"你可不敢回头看正挥舞着小相机在后穷追不舍的她。_
 
 当你被茉莉拍到的时候，你应该明白，懂的物尽其用的她会做出什么来。
 
@@ -18,42 +18,41 @@ tag:
 
 ### 特别感谢
 
-本功能修改自[原项目](https://github.com/noneplugin/nonebot-plugin-petpet)，是它的mirai协议适配版，感谢MeetWq佬的帮助！大佬真的太可爱了呜呜呜(
+本功能修改自[原项目](https://github.com/noneplugin/nonebot-plugin-petpet)，是它的 mirai 协议适配版，感谢 MeetWq 佬的帮助！大佬真的太可爱了呜呜呜(
 
 :::warning 使用限制
-本功能要求个人好感度≥500
+本功能要求个人好感度 ≥500
 :::
 
 因为指令众多，就和[之前的制图](../mirai/makepic.md)功能一样简单说明一下，然后放图吧。
 
 本功能有以下几种**触发方式**——
 
-+ 指令+@user，如“/小天使 @meetwq”
+- 指令+@user，如“/小天使 @meetwq”
 
-+ 指令+QQ号，如“/小天使 114514”
+- 指令+QQ 号，如“/小天使 114514”
 
-+ 指令+自己，如“/小天使 自己”
+- 指令+自己，如“/小天使 自己”
 
-+ 指令+图片，如“/小天使 [图片]”
+- 指令+图片，如“/小天使 [图片]”
 
-前三种将以目标的QQ头像作为目标生成，最后一种相当于指定图片生成。
+前三种将以目标的 QQ 头像作为目标生成，最后一种相当于指定图片生成。
 
 :::info 说明
-如果采用QQ号，即第二种形式，**目标QQ需要是茉莉的好友**，所以我们建议使用群@的方式进行。
+如果采用 QQ 号，即第二种形式，**目标 QQ 需要是茉莉的好友**，所以我们建议使用群@的方式进行。
 
 部分指令可以**修改文字内容**，具体会在下面阐述。
 :::
 
 那么，下面就直接放图吧，如果还不太清楚，在**文末**有一点具体的指令作为演示。
 
-## PetPet指令集
+## PetPet 指令集
 
 注意，以下指令**均需要指令前缀**“/”，不再赘述。
 
-![使用说明](https://s2.loli.net/2022/06/09/lCOujwopgJPxD97.jpg)
+![使用说明](https://s2.loli.net/2022/08/26/9O3kBNcHWS8hX1e.jpg)
 
 ## 逐一演示效果
-
 
 | 指令 | 效果 | 备注 |
 | --- | --- | --- |
@@ -61,7 +60,7 @@ tag:
 | 摸<br>摸摸<br>摸头<br>摸摸头<br>rua | <img src="https://s2.loli.net/2022/02/23/oNGVO4iuCk73g8S.gif" width="200" /> | 可使用参数“圆”让头像为圆形<br>如：摸头圆 自己 |
 | 亲<br>亲亲 | <img src="https://s2.loli.net/2022/02/23/RuoiqP8plJBgw9K.gif" width="200" /> | 可指定一个或两个目标<br>若为一个则为 发送人 亲 目标<br>若为两个则为 目标1 亲 目标2<br>如：亲 114514 自己 |
 | 贴<br>贴贴<br>蹭<br>蹭蹭 | <img src="https://s2.loli.net/2022/02/23/QDCE5YZIfroavub.gif" width="200" /> | 可指定一个或两个目标<br>类似 亲 |
-| 顶<br>玩 | <img src="https://s2.loli.net/2022/02/23/YwxA7fFgWyshuZX.gif" width="200" /> |  |
+| 顶<br>玩 | <img src="https://s2.loli.net/2022/08/16/WVotKxjqupdCJAS.gif" width="200" /> |  |
 | 拍 | <img src="https://s2.loli.net/2022/02/23/5mv6pFJMNtzHhcl.gif" width="200" /> |  |
 | 撕 | <img src="https://s2.loli.net/2022/05/29/FDcam9ROPkqvwxH.jpg" width="200" > |  |
 | 丢<br>扔 | <img src="https://s2.loli.net/2022/02/23/LlDrSGYdpcqEINu.jpg" width="200" /> |  |
@@ -90,7 +89,7 @@ tag:
 | 继续干活<br>打工人 | <img src="https://s2.loli.net/2022/04/20/LIak2BsJ9Dd5O7l.jpg" width="200" > |  |
 | 完美<br>完美的 | <img src="https://s2.loli.net/2022/03/10/lUS1nmPAKIYtwih.jpg" width="200" /> |  |
 | 关注 | <img src="https://s2.loli.net/2022/03/12/FlpjRWCte72ozqs.jpg" width="200" > | 名字为qq昵称，可指定名字 |
-| 我朋友说<br>我有个朋友说 | <img src="https://s2.loli.net/2022/03/12/cBk4aG3RwIoYbMF.jpg" width="200" > | 默认使用发送者的头像<br>如：我朋友说 来份涩图 |
+| 我朋友说<br>我有个朋友说 | <img src="https://s2.loli.net/2022/03/12/cBk4aG3RwIoYbMF.jpg" width="200" > | 没有图片则使用发送者的头像<br>可指定名字<br>如“我朋友张三说 来份涩图” |
 | 这像画吗 | <img src="https://s2.loli.net/2022/03/12/PiSAM1T6EvxXWgD.jpg" width="200" > |  |
 | 震惊 | <img src="https://s2.loli.net/2022/03/12/4krO6y53bKzYpUg.gif" width="200" > |  |
 | 兑换券 | <img src="https://s2.loli.net/2022/03/12/6tS7dDaprb1sUxj.jpg" width="200" > | 默认文字为：qq昵称 + 陪睡券<br>可指定文字 |
@@ -117,13 +116,22 @@ tag:
 | 锤 | <img src="https://s2.loli.net/2022/04/20/ajXFm95tHRM6CzZ.gif" width="200" > |  |
 | 紧贴<br>紧紧贴着 | <img src="https://s2.loli.net/2022/04/20/FiBwc3ZxvVLObGP.gif" width="200" > |  |
 | 注意力涣散 | <img src="https://s2.loli.net/2022/05/11/mEtyxoZ3DfwBCn5.jpg" width="200" > |  |
-| 阿尼亚喜欢 | <img src="https://s2.loli.net/2022/05/11/U3ZMXHB1PduKckQ.jpg" width="200" > | 支持gif |
+| 阿尼亚喜欢 | <img src="https://s2.loli.net/2022/08/16/PNCZxzqvV9uDFEf.jpg" width="200" > | 支持gif |
 | 想什么 | <img src="https://s2.loli.net/2022/05/18/ck1jNO2K8Qd6Lo3.jpg" width="200" > | 支持gif |
 | 远离 | <img src="https://s2.loli.net/2022/05/31/lqyOu25WPTsGBcb.jpg" width="200" > | 可指定多个目标 |
 | 结婚申请<br>结婚登记 | <img src="https://s2.loli.net/2022/05/31/tZR3ls7cBrdGHTL.jpg" width="200" > |  |
 | 小画家 | <img src="https://s2.loli.net/2022/06/23/KCD73EbgqzWFxr4.jpg" width="200" > |  |
-| 复读 | <img src="https://s2.loli.net/2022/06/08/nU2dAe3GiVR7Y8I.gif" width="200" > | 复读内容默认为“救命啊”<br>可指定多个目标 |
-
+| 复读 | <img src="../../images/petpet/复读.gif" width="200" > | 复读内容默认为“救命啊”<br>可指定多个目标 |
+| 防诱拐 | <img src="../../images/petpet/防诱拐.jpg" width="200" > |  |
+| 字符画 | <img src="../../images/petpet/字符画.jpg" width="200" > | 支持gif |
+| 这是我的老婆 | <img src="../../images/petpet/这是我的老婆.jpg" width="200" > | 可改为别的称谓<br>如“这是他的老公” |
+| 胡桃平板 | <img src="../../images/petpet/胡桃平板.jpg" width="200" > | 支持gif |
+| 讲课<br>敲黑板 | <img src="../../images/petpet/讲课.jpg" width="200" > | 支持gif |
+| 上瘾<br>毒瘾发作 | <img src="../../images/petpet/上瘾.jpg" width="200" > | 支持gif |
+| 手枪 | <img src="../../images/petpet/手枪.jpg" width="200" > |  |
+| 高血压 | <img src="../../images/petpet/高血压.jpg" width="200" > | 支持gif |
+| 看书 | <img src="../../images/petpet/看书.jpg" width="200" > |  |
+| 遇到困难请拨打 | <img src="../../images/petpet/遇到困难请拨打.jpg" width="200" > | 可指定一个或两个目标 |                                                                |
 
 ## 更为详细的说明
 
@@ -131,12 +139,12 @@ tag:
 
 那么你可以这么写——
 
-### “/我朋友RainChain说 灵音好可爱 谁赞成，谁反对 3032902237”
+### “/我朋友 RainChain 说 灵音好可爱 谁赞成，谁反对 3032902237”
 
-效果为用3032902237这一QQ号的头像并用RainChain这一昵称生成一条“灵音好可爱”“谁赞成，谁反对”两条消息（两条消息用**空格隔开**），效果图如下。
+效果为用 3032902237 这一 QQ 号的头像并用 RainChain 这一昵称生成一条“灵音好可爱”“谁赞成，谁反对”两条消息（两条消息用**空格隔开**），效果图如下。
 
 ![效果图1](../../images/petpet/%E6%95%88%E6%9E%9C%E5%9B%BE1.jpg)
 
 :::tip 指令规范
-为了指令规范和便于记忆而言，我们建议你将QQ号或者@放在指令的最后，见上面指令所使用的那样。
+为了指令规范和便于记忆而言，我们建议你将 QQ 号或者@放在指令的最后，见上面指令所使用的那样。
 :::
