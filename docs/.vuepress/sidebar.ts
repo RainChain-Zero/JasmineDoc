@@ -48,7 +48,8 @@ export default defineSidebarConfig([
     prefix: "manual/nonebot2/",
     collapsable: true,
     children: ["nbnhhsh", "drawcard", "guessoperator", "bilibili", "setu", "tarot", "shindanmaker",
-      "petpet", "ygo", "picsearcher", "caiyun", "minesweeper", "oddtext", "drawimage", "rebuildimg"],
+      "petpet", "ygo", "picsearcher", "caiyun", "minesweeper", "oddtext", "drawimage", "rebuildimg",
+      "wiki"],
   },
   {
     text: "Koishi",
