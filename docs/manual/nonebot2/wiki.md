@@ -22,27 +22,31 @@ tag:
 
 ### 查询
 
-- 查询条目： [[条目名]] [[prefix:条目名]]
-
-- 查询条目（方法 2）： `wiki 条目名`和`wiki prefix:条目名`
+- 查询条目： `[[条目名]]`和`[[前缀:条目名]]`
 
 > 当前环境存在多个 wiki，需要指定前缀，前缀可以在添加时设置
 
-- 查询模板： {{模板名}} {{prefix:模板名}}
+- 查询模板： `{ {模板名} }`和`{ {前缀:模板名} }`
 
-- 绕过 api 查询条目： ((条目名)) ((prefix:条目名))
+> 请注意，实际使用的过程中两个大括号之间不要加空格，此处是因为一些...奇怪的原因
+
+- 绕过 api 查询条目：`((条目名))`和`((前缀:条目名))`
 
 目前已全局添加**萌娘百科**和**PRTS**百科，所以你可以直接使用——
 
-- [[prts:条目名]]、[[mg:条目名]]
+- `[[prts:条目名]]`、`[[mg:条目名]]`
 
 ### 添加
 
-/wiki.add <prefix> [api 地址（可选）] <通用 url 地址> [-g(全局)]
+/wiki.add <前缀> [api 地址（可选）] <通用 url 地址> [-g(全局)]
+
+> 例：/wiki.add mg https://zh.moegirl.org.cn/api.php https://zh.moegirl.org.cn/
 
 ### 删除
 
-/wiki.delete <prefix> [-g]
+/wiki.delete <前缀> [-g]
+
+> 例：/wiki.delete mg
 
 ### wiki 列表
 
@@ -51,6 +55,8 @@ tag:
 ### 设置默认 wiki（本群或全局）
 
 /wiki.default <前缀> [-g]
+
+> 用来在本群或者全局设定默认前缀。
 
 ### 如何获取 api 和通用 url 地址？
 
@@ -61,3 +67,7 @@ tag:
 - api 地址：https://zh.moegirl.org.cn/api.php
 
 - 通用 url 地址：https://zh.moegirl.org.cn/
+
+### 特别感谢
+
+[KoishiMoe/nonebot-plugin-mediawiki](https://github.com/KoishiMoe/nonebot-plugin-mediawiki)
