@@ -56,7 +56,7 @@ export default defineSidebarConfig([
     icon: "note",
     prefix: "manual/koishi/",
     collapsable: true,
-    children: ["api", "chess"],
+    children: ["api", "chess", "novelai"],
   },
   {
     text: "附录",
