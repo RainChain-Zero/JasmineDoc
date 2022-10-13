@@ -45,7 +45,7 @@ tag:
 - `furry`：福瑞控特攻
 
 ```
-/nai white hair,red eyes -m furry
+/nai -m furry white hair,red eyes
 ```
 
 ### 更改图片方向
@@ -57,7 +57,7 @@ tag:
 - `landscape`：512×768
 
 ```
-/nai white hair,red eyes -o landscape
+/nai -o landscape white hair,red eyes
 ```
 
 ### 设置采样器
@@ -107,7 +107,7 @@ tag:
 默认随机种子为对当前时间戳四舍五入。
 
 ```
-/nai white hair,red eyes -x 20060228
+/nai -x 20060228 white hair,red eyes
 ```
 
 ### 服从度
@@ -122,7 +122,7 @@ tag:
 |  19~  |     无情的绘画机器     |
 
 ```
-/nai white hair,red eyes -c 15
+/nai -c 15 white hair,red eyes
 ```
 
 ### 特别感谢
