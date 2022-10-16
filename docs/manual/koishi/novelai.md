@@ -80,6 +80,13 @@ tag:
 /nai {white hair},[red eyes]
 ```
 
+可以使用**negative prompts:** 指定待排除的词条。
+
+```
+/nai {white hair},[red eyes]
+negative prompts: missing legs
+```
+
 :::info 提示
 `[]`和`{}`可以**嵌套**，每一层都将增加/减弱 1.05 倍的权重。
 :::
