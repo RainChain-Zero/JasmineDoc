@@ -11,6 +11,14 @@ icon: "script"
 
 _茉莉日后的更新都将在这里记载，让我们一同见证茉莉的成长——_
 
+## V4.8.9
+
+2022.10.16
+
+①.增加 NovelAi 作图的 negative prompts
+
+②.增加[DeepDanbooru 图片词条推断](../manual/koishi/deepdanbooru.md)
+
 ## V4.8.8
 
 2022.10.08
