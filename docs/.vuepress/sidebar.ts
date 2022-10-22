@@ -48,15 +48,15 @@ export default defineSidebarConfig([
     prefix: "manual/nonebot2/",
     collapsable: true,
     children: ["nbnhhsh", "drawcard", "guessoperator", "bilibili", "setu", "tarot", "shindanmaker",
-      "petpet", "ygo", "picsearcher", "caiyun", "minesweeper", "oddtext", "drawimage", "rebuildimg",
-      "wiki"],
+      "petpet", "ygo", "picsearcher", "caiyun", "oddtext", "drawimage", "rebuildimg",
+      "wiki", "kfc"],
   },
   {
     text: "Koishi",
     icon: "note",
     prefix: "manual/koishi/",
     collapsable: true,
-    children: ["api", "chess", "novelai", "deepdanbooru", "youdao"],
+    children: ["api", "novelai", "deepdanbooru", "youdao"],
   },
   {
     text: "附录",
