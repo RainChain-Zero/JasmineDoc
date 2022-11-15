@@ -31,7 +31,7 @@ export default defineSidebarConfig([
         icon: "note",
         collapsable: true,
         prefix: "other/",
-        children: ["searchmodule", "picture", "TTS"]
+        children: ["searchmodule", "picture", "TTS", "truth"]
       }
     ]
   },
