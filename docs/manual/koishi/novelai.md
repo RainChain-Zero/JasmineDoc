@@ -12,7 +12,7 @@ tag:
 
 这里是对[NovelAi](https://novelai.net/)作图功能的 bot 实现。
 
-凭着好奇心和~~吃瓜精神~~，咱第一时间完成了 NovelAi 的实现，后来发现 Koishi 官方~~更是凶猛 ×~~，所以我选择加入他！(？)
+现采用 Anything V3 模型。
 
 :::warning 注意
 
@@ -31,7 +31,7 @@ tag:
 ```
 
 :::info 提示
-关键词描述可以参阅群文件《AI 的魔法~~禁书目录~~咒语》，已在代码层面禁用部分破碎肢体和低质量的作画，同时品质词条已内置，不必填写{masterpiece}等词条。
+已在代码层面禁用部分破碎肢体和低质量的作画，同时高品质和负面词条已内置，不必填写{masterpiece}等词条。
 :::
 
 ### 以图绘图（img2img）
@@ -89,7 +89,7 @@ negative prompts: missing legs
 
 使用`-x` 参数来设定随机种子。随机种子在生成过程中起到*噪声*的作用，有**相同随机种子**的画拥有**更多的相似处**。（不是相同）
 
-默认随机种子为对当前时间戳四舍五入。
+默认随机种子为对[0,当前时间戳]随机结果四舍五入。
 
 ```
 /nai -x 20060228 white hair,red eyes
@@ -114,4 +114,6 @@ negative prompts: missing legs
 
 - [NovelAi](https://novelai.net/)
 
-- [ koishijs/koishi-plugin-novelai](https://github.com/koishijs/koishi-plugin-novelai)
+- [Stardust·减](https://github.com/Stardust-minus)
+
+- 国家超级计算广州中心 天河·启明集群
