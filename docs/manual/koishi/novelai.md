@@ -4,6 +4,7 @@ category:
   - Koishi
 tag:
   - 制图
+  - AI
 ---
 
 # NovelAi 作图
