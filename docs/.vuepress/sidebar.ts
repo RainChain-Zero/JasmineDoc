@@ -47,7 +47,7 @@ export default defineSidebarConfig([
     icon: "note",
     prefix: "manual/nonebot2/",
     collapsable: true,
-    children: ["nbnhhsh", "drawcard", "guessoperator", "bilibili", "setu", "tarot", "shindanmaker",
+    children: ["nbnhhsh", "drawcard", "guessoperator", "setu", "tarot", "shindanmaker",
       "petpet", "ygo", "picsearcher", "caiyun", "oddtext", "drawimage", "rebuildimg",
       "wiki", "kfc"],
   },
