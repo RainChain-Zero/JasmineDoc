@@ -31,7 +31,7 @@ export default defineSidebarConfig([
         icon: "note",
         collapsable: true,
         prefix: "other/",
-        children: ["searchmodule", "picture", "TTS", "truth"]
+        children: ["searchmodule", "picture", "TTS", "truth", "whateat"]
       }
     ]
   },
@@ -49,7 +49,7 @@ export default defineSidebarConfig([
     collapsable: true,
     children: ["nbnhhsh", "drawcard", "guessoperator", "setu", "tarot", "shindanmaker",
       "petpet", "ygo", "picsearcher", "caiyun", "oddtext", "drawimage", "rebuildimg",
-      "wiki", "kfc"],
+      "wiki", "kfc", "pokemon"],
   },
   {
     text: "Koishi",
