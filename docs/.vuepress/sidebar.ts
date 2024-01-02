@@ -49,7 +49,7 @@ export default defineSidebarConfig([
     collapsable: true,
     children: ["nbnhhsh", "drawcard", "guessoperator", "setu", "tarot", "shindanmaker",
       "petpet", "ygo", "picsearcher", "caiyun", "oddtext", "drawimage", "rebuildimg",
-      "wiki", "kfc", "pokemon"],
+      "wiki", "kfc", "pokemon", 'bilibili'],
   },
   {
     text: "Koishi",
